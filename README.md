@@ -1,0 +1,4 @@
+Ceci est un projet réalisé par un binôme pendant M1. 
+L'objectif de ce projet est d'analyser les caractéristiques des néologismes dans le domaine de la finance, de définir les différents types de néologismes, de présenter les dictionnaires utilisés dans l'étude ainsi que la méthodologie employée pour analyser les données. De plus, nous utilisons la technologie de reconnaissance des entités nommées (NER) pour identifier les nouveaux termes spécialisés émergents, y compris les noms de sociétés ou d'institutions.
+
+Le document PDF contient des explications sur le code utilisé ainsi qu'une analyse linguistique des néologismes.
